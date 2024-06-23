@@ -4,5 +4,5 @@ TL;DR: We propose a camera-conditional video diffusion model, namely "CamPainter
 
 ## Experiments
 ### Setting One: 3D generation from sparse multi-views
-### Setting Two: 3D geneartion from one image
+### Setting Two: 3D generation from one image
 ### Setting Three: 3D generation from one incomplete image
