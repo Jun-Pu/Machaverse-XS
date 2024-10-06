@@ -28,9 +28,7 @@ Please update the [config.py]() before running [train.py]().
 
 ### Inference
 
-Run [test.py]().
-
-### Results upon the TestSet
+Train your own SV3D model or simply download our [checkpoints](), then run [test.py]() to achieve results like these:
 
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_007_0026.gif" alt="GIF 1" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_019_0026.gif" alt="GIF 2" width="200" style="display:inline;"/> 
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_022_0026.gif" alt="GIF 3" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_029_0026.gif" alt="GIF 4" width="200" style="display:inline;"/>
