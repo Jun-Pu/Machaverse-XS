@@ -18,6 +18,8 @@ We collected 154 real-scanned 3D models from the [OmniObject3D](https://omniobje
 
 The whole dataset with official split can be found at [Google Drive]().
 
+The dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
 ## SV3D Re-Implementation
 
 ### Training
@@ -29,4 +31,18 @@ Please update the [config.py]() before running [train.py]().
 Run [test.py]().
 
 ### Results upon the TestSet
+
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_007_0026.gif" alt="GIF 1" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_019_0026.gif" alt="GIF 2" width="200" style="display:inline;"/> 
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_022_0026.gif" alt="GIF 3" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_029_0026.gif" alt="GIF 4" width="200" style="display:inline;"/>
+
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/backpack_024_0026.gif" alt="GIF 5" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/handbag_007_0026.gif" alt="GIF 6" width="200" style="display:inline;"/>
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/handbag_012_0026.gif" alt="GIF 7" width="200" style="display:inline;"/>
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/handbag_039_0026.gif" alt="GIF 8" width="200" style="display:inline;"/>
+
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_003_0001.gif" alt="GIF 9" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_006_0001.gif" alt="GIF 10" width="200" style="display:inline;"/>
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_012_0001.gif" alt="GIF 11" width="200" style="display:inline;"/>
+<img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_028_0001.gif" alt="GIF 12" width="200" style="display:inline;"/>
+
+## Citation
+
 
