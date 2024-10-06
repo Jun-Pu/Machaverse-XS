@@ -24,11 +24,11 @@ The dataset is released under the [CC BY 4.0](https://creativecommons.org/licens
 
 ### Training
 
-Please update the [config.py]() before running [train.py]().
+Please update the [config.py](https://github.com/Jun-Pu/I2MVs/blob/main/code/configs.py) before running [train.py](https://github.com/Jun-Pu/I2MVs/blob/main/code/train.py).
 
 ### Inference
 
-Train your own SV3D model or simply download our [checkpoints](), then run [test.py]() to achieve results like these:
+Train your own SV3D model or simply download our [checkpoints](), then run [test.py](https://github.com/Jun-Pu/I2MVs/blob/main/code/test.py) to achieve results like these:
 
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_007_0026.gif" alt="GIF 1" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_019_0026.gif" alt="GIF 2" width="200" style="display:inline;"/> 
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_022_0026.gif" alt="GIF 3" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_029_0026.gif" alt="GIF 4" width="200" style="display:inline;"/>
@@ -42,5 +42,13 @@ Train your own SV3D model or simply download our [checkpoints](), then run [test
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/shoe_028_0001.gif" alt="GIF 12" width="200" style="display:inline;"/>
 
 ## Citation
+
+     @software{I2MVs,
+      author = {Yi Zhang},
+      title = {I2MVs: MultiView Video Generation from a Single Image},
+      month = {October},
+      year = {2024},
+      url = {https://github.com/Jun-Pu/I2MVs}
+    }
 
 
