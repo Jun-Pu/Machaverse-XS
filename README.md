@@ -1,4 +1,4 @@
-# I2MVs: MultiView Video Generation from a Single Image
+# Machaverse-XS: A Little Universe of Masked 3D Objects towards E-Commercial Merchandising Scenario
 In this repository, we provide:
 
 - [x] A small dataset containing [real-scanned 3D assets](https://omniobject3d.github.io/) across six categories of commonly seen clothing accessories.
