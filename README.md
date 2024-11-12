@@ -44,12 +44,12 @@ Train your own SV3D model or simply download our [checkpoints](), then run [test
 
 ## Citation
 
-     @software{I2MVs,
-      author = {Yi Zhang},
-      title = {I2MVs: MultiView Video Generation from a Single Image},
-      month = {October},
-      year = {2024},
-      url = {https://github.com/Jun-Pu/I2MVs}
+     @software{machaverse-xs,
+       author = {Yi Zhang},
+       title = {Machaverse-XS: A Compact Universe of Masked 3D Objects},
+       month = {October},
+       year = {2024},
+       url = {https://github.com/Jun-Pu/Machaverse-XS}
     }
 
 
