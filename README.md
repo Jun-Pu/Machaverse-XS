@@ -1,5 +1,5 @@
 # Machaverse-XS: A Compact Universe of Masked 3D Objects
-## Technical Report [PDF](https://drive.google.com/file/d/1kyax9iXELGxjiOzTidRl4dIs_mWv4FB6/view?usp=drive_link)
+## Technical Report [PDF](Machaverse_XS_tech_report24.pdf)
 In this repository, we provide:
 
 - [x] A small dataset containing [real-scanned 3D assets](https://omniobject3d.github.io/) across six categories of commonly seen clothing accessories.
