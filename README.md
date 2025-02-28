@@ -29,7 +29,7 @@ Please update the [config.py](https://github.com/Jun-Pu/I2MVs/blob/main/code/con
 
 ### Inference
 
-Train your own SV3D model or simply download our [checkpoints](), then run [test.py](https://github.com/Jun-Pu/I2MVs/blob/main/code/test.py) to achieve results like these:
+Train your own SV3D model or simply download our [checkpoints](https://drive.google.com/file/d/141c7E7u5RCuoYcXdwysnhYeBEvPOkr8K/view?usp=sharing), then run [test.py](https://github.com/Jun-Pu/I2MVs/blob/main/code/test.py) to achieve results like these:
 
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_007_0026.gif" alt="GIF 1" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_019_0026.gif" alt="GIF 2" width="200" style="display:inline;"/> 
 <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_022_0026.gif" alt="GIF 3" width="200" style="display:inline;"/> <img src="https://github.com/Jun-Pu/I2MVs/blob/main/demos/hat_029_0026.gif" alt="GIF 4" width="200" style="display:inline;"/>
