@@ -8,7 +8,7 @@ In this repository, we provide:
 
 
 ## The DataSet
-We collected 154 real-scanned 3D models from the [OmniObject3D](https://omniobject3d.github.io/) , manually masked varying percentages of the visible mesh faces, and re-rendered orbital videos with [Blender](https://www.blender.org/): 
+We collected 154 real-scanned 3D models from the [OmniObject3D](https://omniobject3d.github.io/) , manually masked varying percentages of the visible mesh faces, and acquired orbital renderings with [Blender](https://www.blender.org/): 
 
 ![hat_003_cam_01](https://github.com/Jun-Pu/I2MVs/blob/main/assets/hat_003_cam_01.gif)
 ![backpack_019_cam_01](https://github.com/Jun-Pu/I2MVs/blob/main/assets/backpack_019_cam_01.gif)
