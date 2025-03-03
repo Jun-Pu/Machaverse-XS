@@ -17,7 +17,7 @@ We collected 154 real-scanned 3D models from the [OmniObject3D](https://omniobje
 ![shoe_003_cam_01](https://github.com/Jun-Pu/I2MVs/blob/main/assets/shoe_003_cam_01.gif)
 ![suitcase_006_cam_01](https://github.com/Jun-Pu/I2MVs/blob/main/assets/suitcase_006_cam_01.gif)
 
-The whole dataset with official split can be found at [Google Drive]().
+The whole dataset with official split can be found at [Google Drive](https://drive.google.com/file/d/1JP4fpzvg4CxADcP4xTU3I6Ywh570xRBh/view?usp=sharing).
 
 The dataset is released under the [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
